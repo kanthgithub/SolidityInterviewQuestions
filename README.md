@@ -1,5 +1,9 @@
 # SolidityInterviewQuestions
 
+## Interview specific References:
+
+- https://www.reddit.com/r/ethdev/comments/80y3oc/interviewing_for_intermediateexperienced_solidity/
+
 ## Transactions:
 
    - https://ethereum.stackexchange.com/questions/1891/whats-the-difference-between-msg-sender-and-tx-origin
